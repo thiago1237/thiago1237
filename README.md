@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago.
 - 👀 I’m interested in, learn and make me a dev
-- 🌱 I’m currently learning, python
+- 🌱 I’m currently developing in python and C#
 - 📫 How to reach me, thiago.devjr@gmail.com - 47 996972113
 
 <!---
