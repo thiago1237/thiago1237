@@ -1,7 +1,7 @@
+### Hi, i'm Thiago
 
-
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I am currently pursuing the <strong>ENTRA21</strong> program, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.<strong></p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br> 
+<br> I am currently pursuing the <strong>ENTRA21</strong> program, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.<strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thiago1237&theme=radical&mode=weekly" />
